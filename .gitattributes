@@ -1,0 +1,13 @@
+public/* linguist-vendored
+*.py linguist-detectable
+dist/* linguist-vendored
+*.svg text
+
+* text=auto
+*.png binary
+
+*.woff2 binary
+
+**/*.py linguist-detectable
+*.md linguist-documentation
+*.yaml linguist-detectable=false
